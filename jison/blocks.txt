@@ -1,0 +1,7 @@
+blocks
+
+water_well @ 12,4,0; 12,4,2
+tree @ 5,4,5;
+plantation1 @ 19,4,8
+house2 @ 12,4,9; 15,4,13
+house1 @ 5,8,9; 9,8,9;

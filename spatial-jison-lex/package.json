@@ -1,0 +1,26 @@
+{
+  "name": "spatial-jison-lex",
+  "version": "0.0.1",
+  "description": "A spatial lexical analyser for the jison parser.",
+  "main": "index.js",
+  "keywords": [
+    "space",
+    "vector",
+    "point",
+    "jison",
+    "bison",
+    "yacc",
+    "lex",
+    "flex",
+    "jison-lex"
+  ],
+  "author": {
+    "name": "Leonardo Santos",
+    "email" : "leonardo.olsantos@gmail.com"
+  },
+  "repository": {
+     "type" : "git",
+     // "url" : ""
+  },
+  "license": "MIT"
+}
